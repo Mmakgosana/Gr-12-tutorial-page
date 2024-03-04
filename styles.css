@@ -2,11 +2,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: background-image.jpg;
+    background-image: url("https://i.pinimg.com/564x/fb/41/65/fb416594ace2e7246d93f8f9e6a764a7.jpg");
+    background-size: cover;
+    background-position: center;
 }
 
 header, footer {
-    background-color: #30e1a3;
+    background-color:#deb887 ;
     color: #fff;
     text-align: center;
     padding: 1em;
@@ -36,7 +38,7 @@ li {
 }
 
 a {
-    color: #007BFF;
+    color: #000000;
     text-decoration: none;
 }
 
